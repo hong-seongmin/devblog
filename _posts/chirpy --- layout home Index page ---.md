@@ -1,14 +1,11 @@
 ---
-title: Getting Started
-description: Get started with Chirpy basics in this comprehensive overview. You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
-author: cotes
-date: 2019-08-09 20:55:00 +0800
+title: chirpy --- layout home Index page ---
+description: chirpy 테마 적용 중 index.html에 있는 --- layout home Index page ---만 나오는 증상 해결
+author: solon
+date: 2024-05-01 20:55:00 +0800
 categories:
   - Blogging
-  - Tutorial
-tags:
-  - getting
-  - started
+tags: 
 pin: true
 media_subpath: /posts/20180809
 ---
