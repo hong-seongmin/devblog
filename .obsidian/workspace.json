@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2019-08-11-vscode-8009001d-오류-exit-code-65536.md",
+                "file": "posts/2019-08-11-vscode-8009001d-오류-exit-code-65536.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2019-08-08-text-and-typography 1.md",
+                "file": "posts/2019-08-08-text-and-typography.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2019-08-08-text-and-typography 1.md",
+                "file": "posts/2019-08-08-text-and-typography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2019-08-08-text-and-typography 1.md",
+                "file": "posts/2019-08-08-text-and-typography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2019-08-08-text-and-typography 1.md"
+                "file": "posts/2019-08-08-text-and-typography.md"
               }
             }
           },
@@ -182,14 +182,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afa94c0a7ae8487c",
+  "active": "69aa4504cf9cca74",
   "lastOpenFiles": [
-    "_posts/2019-08-08-text-and-typography.md",
     "_posts/2019-08-08-text-and-typography 1.md",
-    "_posts/2019-08-11-vscode-8009001d-오류-exit-code-65536.md",
-    "_posts/2019-08-11-customize-the-favicon.md",
-    "_posts/2019-08-08-write-a-new-post.md",
-    "_posts/2024-05-01-(1).md",
+    "posts/2019-08-08-text-and-typography.md",
+    "posts/2019-08-11-vscode-8009001d-오류-exit-code-65536.md",
+    "posts/2019-08-11-customize-the-favicon.md",
+    "posts/2019-08-08-write-a-new-post.md",
+    "posts/2024-05-01-(1).md",
     "node_modules/yargs/node_modules/emoji-regex/es2015/index.js",
     "node_modules/yargs/node_modules/emoji-regex/es2015/text.js",
     "node_modules/yargs/node_modules/emoji-regex/es2015",
@@ -220,11 +220,11 @@
     "node_modules/has-property-descriptors/CHANGELOG.md",
     "node_modules/escape-string-regexp/readme.md",
     "node_modules/eastasianwidth/README.md",
-    "_posts/Pasted image 20240501170830.png",
-    "_posts/Pasted image 20240501171619.png",
-    "_posts/Pasted image 20240501171446.png",
-    "_posts/Pasted image 20240501171517.png",
-    "_posts/Pasted image 20240501183917.png",
+    "posts/Pasted image 20240501170830.png",
+    "posts/Pasted image 20240501171619.png",
+    "posts/Pasted image 20240501171446.png",
+    "posts/Pasted image 20240501171517.png",
+    "posts/Pasted image 20240501183917.png",
     "_site/assets/img/favicons/mstile-150x150.png",
     "_site/assets/img/favicons/favicon-32x32.png",
     "_site/assets/img/favicons/favicon-16x16.png",
