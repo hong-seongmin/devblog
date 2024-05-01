@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "177075071936cd04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vscode  8009001d 오류 exit code -65536.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "vscode  8009001d 오류 exit code -65536.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "vscode  8009001d 오류 exit code -65536.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "vscode  8009001d 오류 exit code -65536.md"
               }
             }
           },
@@ -155,8 +168,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "69aa4504cf9cca74",
+  "active": "177075071936cd04",
   "lastOpenFiles": [
-    "README.md"
+    "Pasted image 20240501171619.png",
+    "Pasted image 20240501171538.png",
+    "Pasted image 20240501171531.png",
+    "Pasted image 20240501171517.png",
+    "Pasted image 20240501171446.png",
+    "Pasted image 20240501171320.png",
+    "Pasted image 20240501171236.png",
+    "Pasted image 20240501171215.png",
+    "Pasted image 20240501170835.png",
+    "Pasted image 20240501170830.png",
+    "README.md",
+    "vscode  8009001d 오류 exit code -65536.md"
   ]
 }
