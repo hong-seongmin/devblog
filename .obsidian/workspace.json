@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vscode  8009001d 오류 exit code -65536.md",
+                "file": "_posts/vscode  8009001d 오류 exit code -65536.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/chirpy --- layout home Index page ---.md",
+                "file": "_posts/2024-05-01-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/chirpy --- layout home Index page ---.md",
+                "file": "_posts/2024-05-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/chirpy --- layout home Index page ---.md",
+                "file": "_posts/2024-05-01-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/chirpy --- layout home Index page ---.md"
+                "file": "_posts/2024-05-01-01.md"
               }
             }
           },
@@ -184,17 +184,19 @@
   },
   "active": "afa94c0a7ae8487c",
   "lastOpenFiles": [
-    "_posts/chirpy --- layout home  Index page ---.md",
-    "_posts/chirpy --- layout home Index page ---.md",
-    "_posts/2019-08-09-getting-started.md",
     "_posts/2019-08-11-customize-the-favicon.md",
+    "_posts/2024-05-01-01.md",
+    "_posts/Pasted image 20240501170830.png",
+    "_posts/2019-08-08-write-a-new-post.md",
     "_posts/2019-08-08-text-and-typography.md",
+    "_posts/chirpy --- layout home  Index page ---.md",
+    "_posts/vscode  8009001d 오류 exit code -65536.md",
+    "_posts/2019-08-09-getting-started.md",
     "_posts/Pasted image 20240501171619.png",
     "_site/posts/chirpy --- layout home Index page ---",
-    "_posts/2019-08-08-write-a-new-post.md",
     "_posts/Pasted image 20240501171446.png",
     "_posts/Pasted image 20240501171517.png",
-    "Pasted image 20240501183917.png",
+    "_posts/Pasted image 20240501183917.png",
     "_site/archives/index.html",
     "_site/archives",
     "_site/about/index.html",
@@ -209,7 +211,6 @@
     "_site/assets/img/favicons/favicon-16x16.png",
     "_site/assets/img/favicons/apple-touch-icon.png",
     "_site/assets/img/favicons/android-chrome-192x192.png",
-    "_site/assets/img/favicons/android-chrome-512x512.png",
     "node_modules/balanced-match/README.md",
     "node_modules/balanced-match/LICENSE.md",
     "node_modules/brace-expansion/README.md",
@@ -227,8 +228,6 @@
     "node_modules/semantic-release/docs/recipes/ci-configurations/github-actions.md",
     "node_modules/semantic-release/docs/recipes/ci-configurations/circleci-workflows.md",
     "node_modules/semantic-release/docs/recipes/ci-configurations/jenkins-ci.md",
-    "node_modules/semantic-release/docs/recipes/ci-configurations/gitlab-ci.md",
-    "node_modules/semantic-release/docs/recipes/git-hosted-services/git-auth-ssh-keys.md",
-    "node_modules/semantic-release/docs/recipes/git-hosted-services/README.md"
+    "node_modules/semantic-release/docs/recipes/ci-configurations/gitlab-ci.md"
   ]
 }
