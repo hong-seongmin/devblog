@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-01-(1).md",
+                "file": "_posts/vscode  8009001d 오류 exit code -65536.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-01-(1).md",
+                "file": "_posts/vscode  8009001d 오류 exit code -65536.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-01-(1).md",
+                "file": "_posts/vscode  8009001d 오류 exit code -65536.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-01-(1).md"
+                "file": "_posts/vscode  8009001d 오류 exit code -65536.md"
               }
             }
           },
@@ -186,48 +186,49 @@
   "lastOpenFiles": [
     "_posts/2019-08-08-write-a-new-post.md",
     "_posts/2019-08-08-text-and-typography.md",
-    "_posts/2019-08-09-getting-started.md",
-    "_posts/2024-05-01-(1).md",
-    "_posts/2019-08-11-customize-the-favicon.md",
-    "_posts/Pasted image 20240501170830.png",
-    "_posts/chirpy --- layout home  Index page ---.md",
     "_posts/vscode  8009001d 오류 exit code -65536.md",
+    "_posts/2024-05-01-(1).md",
+    "node_modules/yargs/node_modules/emoji-regex/es2015/index.js",
+    "node_modules/yargs/node_modules/emoji-regex/es2015/text.js",
+    "node_modules/yargs/node_modules/emoji-regex/es2015",
+    "node_modules/yargs/lib/platform-shims/esm.mjs",
+    "node_modules/yargs/lib/platform-shims/browser.mjs",
+    "node_modules/yargs/lib/platform-shims",
+    "node_modules/yargs/lib",
+    "node_modules/yargs/helpers/package.json",
+    "node_modules/yargs/helpers/index.js",
+    "node_modules/yargs/helpers/helpers.mjs",
+    "node_modules/strip-json-comments/readme.md",
+    "node_modules/strip-final-newline/readme.md",
+    "node_modules/spdx-satisfies/README.md",
+    "node_modules/p-map/readme.md",
+    "node_modules/p-filter/readme.md",
+    "node_modules/p-each-series/readme.md",
+    "node_modules/path-is-absolute/readme.md",
+    "node_modules/path-exists/readme.md",
+    "node_modules/nerf-dart/README.md",
+    "node_modules/merge2/README.md",
+    "node_modules/lodash.debounce/README.md",
+    "node_modules/is-unicode-supported/readme.md",
+    "node_modules/is-typed-array/README.md",
+    "node_modules/is-typed-array/CHANGELOG.md",
+    "node_modules/has-tostringtag/CHANGELOG.md",
+    "node_modules/has-tostringtag/README.md",
+    "node_modules/has-property-descriptors/README.md",
+    "node_modules/has-property-descriptors/CHANGELOG.md",
+    "node_modules/escape-string-regexp/readme.md",
+    "node_modules/eastasianwidth/README.md",
+    "node_modules/define-properties/README.md",
+    "node_modules/define-properties/CHANGELOG.md",
+    "_posts/Pasted image 20240501170830.png",
     "_posts/Pasted image 20240501171619.png",
-    "_site/posts/chirpy --- layout home Index page ---",
     "_posts/Pasted image 20240501171446.png",
     "_posts/Pasted image 20240501171517.png",
     "_posts/Pasted image 20240501183917.png",
-    "_site/archives/index.html",
-    "_site/archives",
-    "_site/about/index.html",
-    "_site/about",
-    "_site/CNAME",
-    "_site/sitemap.xml",
-    "_site/categories/tutorial/index.html",
-    "_site/categories/blogging/index.html",
-    "_site/categories/demo/index.html",
     "_site/assets/img/favicons/mstile-150x150.png",
     "_site/assets/img/favicons/favicon-32x32.png",
     "_site/assets/img/favicons/favicon-16x16.png",
     "_site/assets/img/favicons/apple-touch-icon.png",
-    "_site/assets/img/favicons/android-chrome-192x192.png",
-    "node_modules/balanced-match/README.md",
-    "node_modules/balanced-match/LICENSE.md",
-    "node_modules/brace-expansion/README.md",
-    "node_modules/ajv/README.md",
-    "node_modules/semantic-release/README.md",
-    "node_modules/table/README.md",
-    "node_modules/rollup/README.md",
-    "node_modules/yargs/README.md",
-    "node_modules/semantic-release/docs/recipes/release-workflow/README.md",
-    "node_modules/semantic-release/docs/recipes/release-workflow/pre-releases.md",
-    "node_modules/semantic-release/docs/recipes/release-workflow/maintenance-releases.md",
-    "node_modules/semantic-release/docs/recipes/ci-configurations/travis.md",
-    "node_modules/semantic-release/docs/recipes/ci-configurations/README.md",
-    "node_modules/semantic-release/docs/recipes/release-workflow/distribution-channels.md",
-    "node_modules/semantic-release/docs/recipes/ci-configurations/github-actions.md",
-    "node_modules/semantic-release/docs/recipes/ci-configurations/circleci-workflows.md",
-    "node_modules/semantic-release/docs/recipes/ci-configurations/jenkins-ci.md",
-    "node_modules/semantic-release/docs/recipes/ci-configurations/gitlab-ci.md"
+    "_site/assets/img/favicons/android-chrome-192x192.png"
   ]
 }

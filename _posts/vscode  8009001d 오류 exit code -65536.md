@@ -1,4 +1,11 @@
-
+---
+title: vscode 8009001d 오류 exit code -65536
+date: 2024-05-01 23:38:SS +/- TTTT
+categories:
+  - Blogging
+tags:
+  - dev
+---
 
 
 
