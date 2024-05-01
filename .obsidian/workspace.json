@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afa94c0a7ae8487c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chirpy --- layout home  Index page ---.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vscode  8009001d 오류 exit code -65536.md",
+                "file": "chirpy --- layout home  Index page ---.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vscode  8009001d 오류 exit code -65536.md",
+                "file": "chirpy --- layout home  Index page ---.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vscode  8009001d 오류 exit code -65536.md"
+                "file": "chirpy --- layout home  Index page ---.md"
               }
             }
           },
@@ -170,22 +182,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "177075071936cd04",
+  "active": "afa94c0a7ae8487c",
   "lastOpenFiles": [
-    "CNAME",
-    "index.md",
-    "vscode  8009001d 오류 exit code -65536.md",
-    "HTML import",
-    "Pasted image 20240501171619.png",
-    "Pasted image 20240501171538.png",
-    "Pasted image 20240501171531.png",
-    "Pasted image 20240501171517.png",
-    "Pasted image 20240501171446.png",
-    "Pasted image 20240501171320.png",
-    "Pasted image 20240501171236.png",
-    "Pasted image 20240501171215.png",
-    "Pasted image 20240501170835.png",
-    "Pasted image 20240501170830.png",
-    "README.md"
+    "_site/archives/index.html",
+    "_site/archives",
+    "_site/about/index.html",
+    "_site/about",
+    "_site/CNAME",
+    "_site/sitemap.xml",
+    "_site/categories/tutorial/index.html",
+    "_site/categories/blogging/index.html",
+    "_site/categories/demo/index.html",
+    "_site/categories/index.html",
+    "_site/categories/tutorial",
+    "_site/assets/img/favicons/mstile-150x150.png",
+    "_site/assets/img/favicons/favicon-32x32.png",
+    "_site/assets/img/favicons/favicon-16x16.png",
+    "_site/assets/img/favicons/apple-touch-icon.png",
+    "_site/assets/img/favicons/android-chrome-192x192.png",
+    "_site/assets/img/favicons/android-chrome-512x512.png",
+    "node_modules/balanced-match/README.md",
+    "node_modules/balanced-match/LICENSE.md",
+    "node_modules/brace-expansion/README.md",
+    "node_modules/ajv/README.md",
+    "node_modules/semantic-release/README.md",
+    "node_modules/table/README.md",
+    "node_modules/rollup/README.md",
+    "node_modules/yargs/README.md",
+    "node_modules/semantic-release/docs/recipes/release-workflow/README.md",
+    "node_modules/semantic-release/docs/recipes/release-workflow/pre-releases.md",
+    "node_modules/semantic-release/docs/recipes/release-workflow/maintenance-releases.md",
+    "node_modules/semantic-release/docs/recipes/ci-configurations/travis.md",
+    "node_modules/semantic-release/docs/recipes/ci-configurations/README.md",
+    "node_modules/semantic-release/docs/recipes/release-workflow/distribution-channels.md",
+    "node_modules/semantic-release/docs/recipes/ci-configurations/github-actions.md",
+    "node_modules/semantic-release/docs/recipes/ci-configurations/circleci-workflows.md",
+    "node_modules/semantic-release/docs/recipes/ci-configurations/jenkins-ci.md",
+    "node_modules/semantic-release/docs/recipes/ci-configurations/gitlab-ci.md",
+    "node_modules/semantic-release/docs/recipes/git-hosted-services/git-auth-ssh-keys.md",
+    "node_modules/semantic-release/docs/recipes/git-hosted-services/README.md",
+    "node_modules/semantic-release/docs/usage/shareable-configurations.md",
+    "node_modules/semantic-release/docs/usage/workflow-configuration.md",
+    "node_modules/semantic-release/docs/usage/README.md",
+    "node_modules/semantic-release/docs/usage/installation.md",
+    "node_modules/semantic-release/docs/usage/plugins.md",
+    "node_modules/highlight.js/scss/school-book.png",
+    "node_modules/highlight.js/scss/pojoaque.jpg",
+    "node_modules/highlight.js/scss/brown-papersq.png",
+    "node_modules/highlight.js/styles/school-book.png"
   ]
 }
