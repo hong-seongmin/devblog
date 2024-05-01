@@ -35,11 +35,9 @@
             "id": "afa94c0a7ae8487c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "chirpy --- layout home  Index page ---.md",
-                "mode": "source",
-                "source": false
+                "file": "_posts/Pasted image 20240501171446.png"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chirpy --- layout home  Index page ---.md",
+                "file": "_posts/Pasted image 20240501171446.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chirpy --- layout home  Index page ---.md",
+                "file": "_posts/Pasted image 20240501171446.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chirpy --- layout home  Index page ---.md"
+                "file": "_posts/Pasted image 20240501171446.png"
               }
             }
           },
@@ -184,6 +182,10 @@
   },
   "active": "afa94c0a7ae8487c",
   "lastOpenFiles": [
+    "_posts/Pasted image 20240501171517.png",
+    "_posts/Pasted image 20240501171619.png",
+    "Pasted image 20240501183917.png",
+    "_posts/chirpy --- layout home  Index page ---.md",
     "_site/archives/index.html",
     "_site/archives",
     "_site/about/index.html",
@@ -194,7 +196,6 @@
     "_site/categories/blogging/index.html",
     "_site/categories/demo/index.html",
     "_site/categories/index.html",
-    "_site/categories/tutorial",
     "_site/assets/img/favicons/mstile-150x150.png",
     "_site/assets/img/favicons/favicon-32x32.png",
     "_site/assets/img/favicons/favicon-16x16.png",
@@ -225,10 +226,7 @@
     "node_modules/semantic-release/docs/usage/workflow-configuration.md",
     "node_modules/semantic-release/docs/usage/README.md",
     "node_modules/semantic-release/docs/usage/installation.md",
-    "node_modules/semantic-release/docs/usage/plugins.md",
     "node_modules/highlight.js/scss/school-book.png",
-    "node_modules/highlight.js/scss/pojoaque.jpg",
-    "node_modules/highlight.js/scss/brown-papersq.png",
-    "node_modules/highlight.js/styles/school-book.png"
+    "node_modules/highlight.js/scss/pojoaque.jpg"
   ]
 }
