@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2019-08-08-post.md",
+                "file": "_posts/2024-05-01-vscode-8009001d-오류-exit-code-65536.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2019-08-08-post.md",
+                "file": "_posts/2024-05-01-vscode-8009001d-오류-exit-code-65536.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2019-08-08-post.md",
+                "file": "_posts/2024-05-01-vscode-8009001d-오류-exit-code-65536.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2019-08-08-post.md"
+                "file": "_posts/2024-05-01-vscode-8009001d-오류-exit-code-65536.md"
               }
             }
           },
@@ -159,26 +159,28 @@
   },
   "active": "bd9e080c2d7a7329",
   "lastOpenFiles": [
+    "_posts/2024-05-01-post.md",
     "_posts/2024-05-01-vscode-8009001d-오류-exit-code-65536.md",
-    "_posts/2019-08-11-customize-the-favicon.md",
     "_posts/2024-05-01-(1).md",
-    "_posts/2019-08-08-post.md",
+    "_posts/2019-08-11-customize-the-favicon.md",
+    "_posts/2024-05-02-post.md",
     "_posts/2019-08-09-getting-started.md",
     "_posts/2019-08-08-write-a-new-post.md",
+    "node_modules/stylelint/node_modules/emoji-regex/es2015/index.js",
+    "node_modules/stylelint/node_modules/emoji-regex/es2015/text.js",
+    "node_modules/stylelint/node_modules/emoji-regex/es2015",
+    "node_modules/npm/node_modules/sprintf-js/test/test.js",
+    "node_modules/npm/node_modules/sprintf-js/test",
+    "node_modules/dargs/readme.md",
+    "node_modules/dargs/index.js",
+    "node_modules/dargs/index.d.ts",
+    "node_modules/dargs/license",
+    "node_modules/dargs/package.json",
+    "node_modules/dargs",
     "_posts/Pasted image 20240501170835.png",
     "_posts/Pasted image 20240501170830.png",
     "README.md",
     "_posts/2019-08-08-text-and-typography 1.md",
-    "node_modules/yargs/node_modules/emoji-regex/es2015/index.js",
-    "node_modules/yargs/node_modules/emoji-regex/es2015/text.js",
-    "node_modules/yargs/node_modules/emoji-regex/es2015",
-    "node_modules/yargs/lib/platform-shims/esm.mjs",
-    "node_modules/yargs/lib/platform-shims/browser.mjs",
-    "node_modules/yargs/lib/platform-shims",
-    "node_modules/yargs/lib",
-    "node_modules/yargs/helpers/package.json",
-    "node_modules/yargs/helpers/index.js",
-    "node_modules/yargs/helpers/helpers.mjs",
     "node_modules/strip-json-comments/readme.md",
     "node_modules/strip-final-newline/readme.md",
     "node_modules/spdx-satisfies/README.md",
@@ -195,7 +197,6 @@
     "node_modules/is-typed-array/CHANGELOG.md",
     "node_modules/has-tostringtag/CHANGELOG.md",
     "node_modules/has-tostringtag/README.md",
-    "node_modules/has-property-descriptors/README.md",
     "_posts/Pasted image 20240501171619.png",
     "_posts/Pasted image 20240501171446.png",
     "_posts/Pasted image 20240501171517.png",
