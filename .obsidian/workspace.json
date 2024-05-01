@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "177075071936cd04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2019-08-11-vscode-8009001d-오류-exit-code-65536.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afa94c0a7ae8487c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2019-08-08-text-and-typography.md",
+                "file": "posts/2024-05-01-(1).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2019-08-08-text-and-typography.md",
+                "file": "posts/2024-05-01-(1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2019-08-08-text-and-typography.md",
+                "file": "posts/2024-05-01-(1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2019-08-08-text-and-typography.md"
+                "file": "posts/2024-05-01-(1).md"
               }
             }
           },
@@ -182,14 +157,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "69aa4504cf9cca74",
+  "active": "bd9e080c2d7a7329",
   "lastOpenFiles": [
-    "_posts/2019-08-08-text-and-typography 1.md",
-    "posts/2019-08-08-text-and-typography.md",
     "posts/2019-08-11-vscode-8009001d-오류-exit-code-65536.md",
     "posts/2019-08-11-customize-the-favicon.md",
+    "posts/2019-08-09-getting-started.md",
     "posts/2019-08-08-write-a-new-post.md",
+    "posts/2019-08-08-text-and-typography.md",
+    "posts/Pasted image 20240501170835.png",
+    "posts/Pasted image 20240501170830.png",
     "posts/2024-05-01-(1).md",
+    "README.md",
+    "_posts/2019-08-08-text-and-typography 1.md",
     "node_modules/yargs/node_modules/emoji-regex/es2015/index.js",
     "node_modules/yargs/node_modules/emoji-regex/es2015/text.js",
     "node_modules/yargs/node_modules/emoji-regex/es2015",
@@ -217,10 +196,6 @@
     "node_modules/has-tostringtag/CHANGELOG.md",
     "node_modules/has-tostringtag/README.md",
     "node_modules/has-property-descriptors/README.md",
-    "node_modules/has-property-descriptors/CHANGELOG.md",
-    "node_modules/escape-string-regexp/readme.md",
-    "node_modules/eastasianwidth/README.md",
-    "posts/Pasted image 20240501170830.png",
     "posts/Pasted image 20240501171619.png",
     "posts/Pasted image 20240501171446.png",
     "posts/Pasted image 20240501171517.png",
@@ -228,7 +203,6 @@
     "_site/assets/img/favicons/mstile-150x150.png",
     "_site/assets/img/favicons/favicon-32x32.png",
     "_site/assets/img/favicons/favicon-16x16.png",
-    "_site/assets/img/favicons/apple-touch-icon.png",
-    "_site/assets/img/favicons/android-chrome-192x192.png"
+    "_site/assets/img/favicons/apple-touch-icon.png"
   ]
 }
