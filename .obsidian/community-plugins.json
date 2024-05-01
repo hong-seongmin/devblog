@@ -3,5 +3,7 @@
   "calendar",
   "obsidian-git",
   "periodic-notes",
-  "obsidian-table-generator"
+  "obsidian-table-generator",
+  "obsidian-excalidraw-plugin",
+  "obsidian-importer"
 ]

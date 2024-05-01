@@ -159,6 +159,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -170,6 +172,9 @@
   },
   "active": "177075071936cd04",
   "lastOpenFiles": [
+    "index.md",
+    "vscode  8009001d 오류 exit code -65536.md",
+    "HTML import",
     "Pasted image 20240501171619.png",
     "Pasted image 20240501171538.png",
     "Pasted image 20240501171531.png",
@@ -180,7 +185,6 @@
     "Pasted image 20240501171215.png",
     "Pasted image 20240501170835.png",
     "Pasted image 20240501170830.png",
-    "README.md",
-    "vscode  8009001d 오류 exit code -65536.md"
+    "README.md"
   ]
 }
