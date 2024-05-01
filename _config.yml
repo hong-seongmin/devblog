@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: 개발 중 오답노트 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Incorrect answer note in dev # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
